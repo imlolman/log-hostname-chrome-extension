@@ -1,1 +1,0 @@
-# log-hostname-chrome-extension
